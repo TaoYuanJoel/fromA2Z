@@ -1,0 +1,20 @@
+/* lesson 3 */
+
+/* textarea{
+    display: block;
+    margin: 10px 0;
+} */
+
+
+/* lesson 4 */
+#rainbow{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+}
+span{
+    color: white;
+    background: rgb(224, 64, 64);
+    padding: 2px;
+    margin: 10px 0;
+    font-size: 20px;
+}
