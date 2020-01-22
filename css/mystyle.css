@@ -5,9 +5,9 @@
     margin: 10px 0;
 } */
 
-
 /* lesson 4 */
-#rainbow{
+
+/* #rainbow{
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6em;
 }
@@ -18,3 +18,24 @@ span{
     margin: 10px 0;
     font-size: 20px;
 }
+
+button{
+    background: red;
+    border: none;
+    color: white;
+    padding: 5px;
+} */
+
+/* lesson dragAndDrop */
+
+/* #dropzone {
+    color: black;
+    text-align: center;
+    padding: 24px;
+    width: 50%;
+    font-size: 36pt;
+    border: red dashed 2px;
+    margin: auto;
+} */
+
+/* lesson 5 */
